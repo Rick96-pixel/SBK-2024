@@ -1,4 +1,4 @@
-Classifica Superbike 2024 automatizzata (Excel)
+**Classifica Superbike 2024 automatizzata (Excel)**
 
 Questo progetto personale contiene la classifica completa delle gare di Superbike 2024, aggiornata in modo semi‑automatico inserendo i risultati di ciascuna corsa.
 
